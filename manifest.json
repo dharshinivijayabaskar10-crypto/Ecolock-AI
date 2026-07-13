@@ -1,0 +1,21 @@
+{
+  "name": "EcoLock AI",
+  "short_name": "EcoLock AI",
+  "description": "AI-Powered Smart Industrial Wastewater Prevention System",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060D18",
+  "theme_color": "#00E5FF",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "../../.gemini/antigravity/brain/3eec6522-ee6a-4c6a-9ca1-4e565da8c159/ecolock_icon_1783589638097.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity", "business"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
